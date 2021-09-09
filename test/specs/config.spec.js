@@ -19,7 +19,7 @@ describe('valid config', () => {
 
   it('only extends programic-base and plugin:vue/recommended', () => {
     expectIsArrayOfLength(config.extends, 2);
-    expect(config.extends[0]).toBe('programic-base');
+    expect(config.extends[0]).toBe('@programic/eslint-config-base');
     expect(config.extends[1]).toBe('plugin:vue/recommended');
   });
 });
