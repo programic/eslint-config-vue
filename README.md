@@ -1,6 +1,6 @@
 # @programic/eslint-config-vue
 
-[![npm version](https://badge.fury.io/js/%40programic%2Feslint-config-vue.svg)](http://badge.fury.io/js/@programic/eslint-config-vue)
+[![npm version](https://badge.fury.io/js/@programic%2Feslint-config-vue.svg)](https://badge.fury.io/js/@programic%2Feslint-config-vue)
 
 This package provides Programic's EcmaScript + Vue 2 .eslintrc as an extensible shared config.
 
