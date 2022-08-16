@@ -1,6 +1,6 @@
 {
   "name": "@programic/eslint-config-vue",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "description": "Programic's Vue 2 ESLint config, following our styleguide.",
   "main": "index.js",
   "scripts": {
@@ -44,7 +44,7 @@
     "eslint": "^7.5.0 || ^8.2.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jest": "^26.8.3",
-    "eslint-plugin-vue": "^7.14.0",
+    "eslint-plugin-vue": "^9.3.0",
     "jest": "^27.0.6"
   }
 }

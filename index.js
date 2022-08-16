@@ -52,7 +52,7 @@ module.exports = {
     'vue/max-attributes-per-line': ['error'],
     'vue/multiline-html-element-content-newline': ['error'],
     'vue/mustache-interpolation-spacing': ['error'],
-    'vue/name-property-casing': ['error'],
+    'vue/component-definition-name-casing': ['error'],
     'vue/no-multi-spaces': ['error'],
     'vue/no-spaces-around-equal-signs-in-attribute': ['error'],
     'vue/no-template-shadow': ['error'],
